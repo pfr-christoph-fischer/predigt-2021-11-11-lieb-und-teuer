@@ -8,7 +8,7 @@ scripture: 2. Korinther 8,7-9
 summary: "Martin teilt seinen wertvollen Mantel. Was habe ich zu teilen? Was darf Liebe eigentlich kosten? Gott hat diese Frage für sich schon beantwortet. Und wer zuerst auf Jesus und dann auf die anderen schaut, erkennt, wie echte Liebe zu der Kostenfrage steht."
 source: pfarrplaner
 source_id: "211@www.pfarrplaner.de"
-cover: cover.jpg
+cover: lieb-und-teuer.jpg
 cover_alt: "Titelbild zur Predigt \"Lieb und teuer\"."
 legacy_id: 211
 events:
